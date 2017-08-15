@@ -17,13 +17,18 @@
         }, 
         {
             "location": "/en/", 
-            "text": "Todo", 
+            "text": "FET Intro\n\n\nFET project aims to collect Front End Development releated terminology, for consult,\nwelcome pull request.\n\n\n\u5185\u5bb9\n\n\n\n\nCSS - Cascading Style Sheets\n\n\nHTML - Hypertext Markup Language\n\n\nJavaScript", 
             "title": "English"
         }, 
         {
-            "location": "/en/#todo", 
-            "text": "", 
-            "title": "Todo"
+            "location": "/en/#fet-intro", 
+            "text": "FET project aims to collect Front End Development releated terminology, for consult,\nwelcome pull request.", 
+            "title": "FET Intro"
+        }, 
+        {
+            "location": "/en/#_1", 
+            "text": "CSS - Cascading Style Sheets  HTML - Hypertext Markup Language  JavaScript", 
+            "title": "\u5185\u5bb9"
         }, 
         {
             "location": "/about/", 
