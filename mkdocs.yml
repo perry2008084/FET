@@ -1,0 +1,6 @@
+site_name: 前端术语(FET)
+
+pages:
+    - 中文: index.md
+    - English: en.md
+    - 关于: about.md
