@@ -17,8 +17,13 @@
         }, 
         {
             "location": "/en/", 
-            "text": "", 
+            "text": "Todo", 
             "title": "English"
+        }, 
+        {
+            "location": "/en/#todo", 
+            "text": "", 
+            "title": "Todo"
         }, 
         {
             "location": "/about/", 
