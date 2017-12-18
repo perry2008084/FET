@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "FET\u7b80\u4ecb\n\n\nFET\u9879\u76ee\u662f\u6536\u96c6\u524d\u7aef\u5f00\u53d1\u4e2d\u6d89\u53ca\u5230\u7684\u76f8\u5173\u672f\u8bed\uff0c\u65b9\u4fbf\u67e5\u9605\uff0c\u6b22\u8fcepull request\u3002\n\n\n\u5185\u5bb9\n\n\n\n\nCSS - Cascading Style Sheets\n\n\nHTML - Hypertext Markup Language\n\n\nJavaScript", 
+            "text": "FET\u7b80\u4ecb\n\n\nFET\u9879\u76ee\u662f\u6536\u96c6\u524d\u7aef\u5f00\u53d1\u4e2d\u6d89\u53ca\u5230\u7684\u76f8\u5173\u672f\u8bed\uff0c\u65b9\u4fbf\u67e5\u9605\uff0c\u6b22\u8fcepull request\u3002\n\n\n\u5185\u5bb9\n\n\n\n\nCSS - Cascading Style Sheets\n\n\nEcma - European Computer Manufacturers Association\n\n\nHTML - Hypertext Markup Language\n\n\nJavaScript\n\n\nNoSQL - Not only SQL/non SQL\n\n\nURI - Uniform Resource Identifier", 
             "title": "\u4e2d\u6587"
         }, 
         {
@@ -12,12 +12,12 @@
         }, 
         {
             "location": "/#_1", 
-            "text": "CSS - Cascading Style Sheets  HTML - Hypertext Markup Language  JavaScript", 
+            "text": "CSS - Cascading Style Sheets  Ecma - European Computer Manufacturers Association  HTML - Hypertext Markup Language  JavaScript  NoSQL - Not only SQL/non SQL  URI - Uniform Resource Identifier", 
             "title": "\u5185\u5bb9"
         }, 
         {
             "location": "/en/", 
-            "text": "FET Intro\n\n\nFET project aims to collect Front End Development releated terminology, for consult,\nwelcome pull request.\n\n\n\u5185\u5bb9\n\n\n\n\nCSS - Cascading Style Sheets\n\n\nHTML - Hypertext Markup Language\n\n\nJavaScript", 
+            "text": "FET Intro\n\n\nFET project aims to collect Front End Development releated terminology, for consult,\nwelcome pull request.\n\n\n\u5185\u5bb9\n\n\n\n\nCSS - Cascading Style Sheets\n\n\nEcma - European Computer Manufacturers Association\n\n\nHTML - Hypertext Markup Language\n\n\nJavaScript\n\n\nNoSQL - Not only SQL/non SQL\n\n\nURI - Uniform Resource Identifier", 
             "title": "English"
         }, 
         {
@@ -27,12 +27,12 @@
         }, 
         {
             "location": "/en/#_1", 
-            "text": "CSS - Cascading Style Sheets  HTML - Hypertext Markup Language  JavaScript", 
+            "text": "CSS - Cascading Style Sheets  Ecma - European Computer Manufacturers Association  HTML - Hypertext Markup Language  JavaScript  NoSQL - Not only SQL/non SQL  URI - Uniform Resource Identifier", 
             "title": "\u5185\u5bb9"
         }, 
         {
             "location": "/about/", 
-            "text": "\u9879\u76ee\u8bf4\u660e\n\n\n\u672c\u9879\u76ee\u4e3a\u6536\u96c6\u524d\u7aef\u5f00\u53d1\u76f8\u5173\u672f\u8bed\uff0c\u65b9\u4fbf\u67e5\u9605\u3002\n\n\n\u8d21\u732e\u6307\u5357\n\n\n1\u3001\u4f7f\u7528Markdown\u8bed\u6cd5\n\n\n2\u3001\u5185\u5bb9\u683c\u5f0f\u4e3a[\u672f\u8bed - \u5168\u79f0] + \u7ef4\u57fa\u767e\u79d1\u7684\u4e2d\u6587\u94fe\u63a5(\u6ce8\u610f\u201c-\u201d\u524d\u540e\u5404\u6709\u4e00\u4e2a\u7a7a\u683c)\n\n\n3\u3001\u82f1\u6587\u7248\u4e3a\u672a\u6765\u8003\u8651\u65b9\u5411", 
+            "text": "\u9879\u76ee\u8bf4\u660e\n\n\n\u672c\u9879\u76ee\u4e3a\u6536\u96c6\u524d\u7aef\u5f00\u53d1\u76f8\u5173\u672f\u8bed\uff0c\u65b9\u4fbf\u67e5\u9605\u3002\n\n\n\u8d21\u732e\u6307\u5357\n\n\n\u53c2\u8003README\u6587\u6863", 
             "title": "\u5173\u4e8e"
         }, 
         {
@@ -42,7 +42,7 @@
         }, 
         {
             "location": "/about/#_2", 
-            "text": "1\u3001\u4f7f\u7528Markdown\u8bed\u6cd5  2\u3001\u5185\u5bb9\u683c\u5f0f\u4e3a[\u672f\u8bed - \u5168\u79f0] + \u7ef4\u57fa\u767e\u79d1\u7684\u4e2d\u6587\u94fe\u63a5(\u6ce8\u610f\u201c-\u201d\u524d\u540e\u5404\u6709\u4e00\u4e2a\u7a7a\u683c)  3\u3001\u82f1\u6587\u7248\u4e3a\u672a\u6765\u8003\u8651\u65b9\u5411", 
+            "text": "\u53c2\u8003README\u6587\u6863", 
             "title": "\u8d21\u732e\u6307\u5357"
         }
     ]
