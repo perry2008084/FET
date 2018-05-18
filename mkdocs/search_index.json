@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "FET\u7b80\u4ecb\n\n\nFET\u9879\u76ee\u662f\u6536\u96c6\u524d\u7aef\u5f00\u53d1\u4e2d\u6d89\u53ca\u5230\u7684\u76f8\u5173\u672f\u8bed\uff0c\u65b9\u4fbf\u67e5\u9605\uff0c\u6b22\u8fcepull request\u3002\n\n\n\u5185\u5bb9\n\n\n\n\nCSS - Cascading Style Sheets\n\n\nEcma - European Computer Manufacturers Association\n\n\nHTML - Hypertext Markup Language\n\n\nJavaScript\n\n\nNoSQL - Not only SQL/non SQL\n\n\nURI - Uniform Resource Identifier", 
+            "text": "FET\u7b80\u4ecb\n\n\nFET\u9879\u76ee\u662f\u6536\u96c6\u524d\u7aef\u5f00\u53d1\u4e2d\u6d89\u53ca\u5230\u7684\u76f8\u5173\u672f\u8bed\uff0c\u65b9\u4fbf\u67e5\u9605\uff0c\u6b22\u8fcepull request\u3002\n\n\n\u5185\u5bb9\n\n\n\n\nAJAX - Asynchronous JavaScript And XML \nwikipedia\n | \nMDN\n\n\nCSS - Cascading Style Sheets\n\n\nEcma - European Computer Manufacturers Association\n\n\nHTML - Hypertext Markup Language\n\n\nJavaScript\n\n\nNoSQL - Not only SQL/non SQL\n\n\nURI - Uniform Resource Identifier", 
             "title": "\u4e2d\u6587"
         }, 
         {
@@ -12,12 +12,12 @@
         }, 
         {
             "location": "/#_1", 
-            "text": "CSS - Cascading Style Sheets  Ecma - European Computer Manufacturers Association  HTML - Hypertext Markup Language  JavaScript  NoSQL - Not only SQL/non SQL  URI - Uniform Resource Identifier", 
+            "text": "AJAX - Asynchronous JavaScript And XML  wikipedia  |  MDN  CSS - Cascading Style Sheets  Ecma - European Computer Manufacturers Association  HTML - Hypertext Markup Language  JavaScript  NoSQL - Not only SQL/non SQL  URI - Uniform Resource Identifier", 
             "title": "\u5185\u5bb9"
         }, 
         {
             "location": "/en/", 
-            "text": "FET Intro\n\n\nFET project aims to collect Front End Development releated terminology, for consult,\nwelcome pull request.\n\n\n\u5185\u5bb9\n\n\n\n\nCSS - Cascading Style Sheets\n\n\nEcma - European Computer Manufacturers Association\n\n\nHTML - Hypertext Markup Language\n\n\nJavaScript\n\n\nNoSQL - Not only SQL/non SQL\n\n\nURI - Uniform Resource Identifier", 
+            "text": "FET Intro\n\n\nFET project aims to collect Front End Development releated terminology, for consult,\nwelcome pull request.\n\n\n\u5185\u5bb9\n\n\n\n\nAJAX - Asynchronous JavaScript And XML [wikipedia](https://en.wikipedia.org/wiki/Ajax_(programming) | \nMDN\n\n\nCSS - Cascading Style Sheets\n\n\nEcma - European Computer Manufacturers Association\n\n\nHTML - Hypertext Markup Language\n\n\nJavaScript\n\n\nNoSQL - Not only SQL/non SQL\n\n\nURI - Uniform Resource Identifier", 
             "title": "English"
         }, 
         {
@@ -27,7 +27,7 @@
         }, 
         {
             "location": "/en/#_1", 
-            "text": "CSS - Cascading Style Sheets  Ecma - European Computer Manufacturers Association  HTML - Hypertext Markup Language  JavaScript  NoSQL - Not only SQL/non SQL  URI - Uniform Resource Identifier", 
+            "text": "AJAX - Asynchronous JavaScript And XML [wikipedia](https://en.wikipedia.org/wiki/Ajax_(programming) |  MDN  CSS - Cascading Style Sheets  Ecma - European Computer Manufacturers Association  HTML - Hypertext Markup Language  JavaScript  NoSQL - Not only SQL/non SQL  URI - Uniform Resource Identifier", 
             "title": "\u5185\u5bb9"
         }, 
         {
